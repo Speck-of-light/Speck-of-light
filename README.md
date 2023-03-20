@@ -1,6 +1,11 @@
-### Hi there 👋
-I'm Valentine, a Junior Data Scientist
-<!--
+<h1 align="center">Hi there, I'm  <a href="https://www.linkedin.com/in/valentina-boychenko-9695aa185/" target="_blank">Valentine</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">А Data Science enthusiast from Russia 🇷🇺</h3>
+
+
+<!-- ### Hi there 👋
+I'm Valentine, a Data Science enthusiast.
+
 **Speck-of-light/Speck-of-light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
