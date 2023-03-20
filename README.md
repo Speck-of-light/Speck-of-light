@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Valentine, a Junior Data Scientist
 <!--
 **Speck-of-light/Speck-of-light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
