@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm  <a href="https://www.linkedin.com/in/valentina-boychenko-9695aa185/" target="_blank">Valentine</a> 
 👋 </h1>
-<h3 align="center">А Data Science enthusiast from Russia 🇷🇺</h3>
+<h3 align="center">а Data Science enthusiast </h3>
 
 
-<!-- ### Hi there 👋
+<!-- ### Hi there 👋 from Russia 🇷🇺
 I'm Valentine, a Data Science enthusiast.
 
 **Speck-of-light/Speck-of-light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
