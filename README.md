@@ -4,17 +4,20 @@
 
 :woman_technologist:Facts about Me :
 
-- 👩‍🎓 Before switching to Data Science, I'm a HR - generalist who got....
-- ✍️ Currently pursuing Master's Degree of Data Science and Innovation (MDSI) from the University ... to improve my knowledge as a data scientist.
--  💬 I'm open to opportunities in the field of Data Science and Engineering, AI, Machine Learning, NLP, Deep Learning and Computer Vision
-- ✨ Spend hours to beautify my code and GitHub markdown ....
-- 📈 Particularly interested in Predictive Analytics, Machine Learning and applying statistical models to solve interesting novel business problems.
-- 🤔 I don’t trust people who don’t write SQL queries in uppercase.
-- ⚡ Fun fact: I am the founder of the 'Boring Woman' book club
+- Before switching to Data Science, I'm a HR - generalist. and it was the mini - course on HR-analytics that pushed me to change my profession. 
+- I completed a course in Data Analyst from the Tomsk State University.
+- Currently pursuing professional development in Data Science from Yandex Educational Technologies.
+- I'm open to opportunities in the field of Data Science and Machine Learning.
+- Particularly interested in Predictive Analytics, Machine Learning and applying statistical models to solve interesting novel business problems.
+- Fun fact: I am the founder of the 'Boring Woman' book club
 
 :hammer_and_wrench: Languages and Tools :
 
 <div>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  title="Pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"  title="Numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -23,8 +26,7 @@
 </div>
 
 
-
-
+<tail> Let's code for good.</tail>
 
 <!-- ### Hi there 👋 from Russia 🇷🇺
 I'm Valentine, a Data Science enthusiast.
