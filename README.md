@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm  <a href="https://www.linkedin.com/in/valentina-boychenko-9695aa185/" target="_blank">Valentine</a> 
+<h1 align="center">Hi there, I'm  <a href="https://www.linkedin.com/in/valentina-boychenko-9695aa185/" target="_blank">Valentina</a> 
 👋 </h1>
 <h3 align="center">а Data Science enthusiast </h3>
 
