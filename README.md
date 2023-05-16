@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 -->
 
-
+<!--
 <h1 align="center">🇷🇺 Привет!, Меня завут  <a href="https://www.linkedin.com/in/valentina-boychenko-9695aa185/" target="_blank">Валентина</a> 
 👋 </h1>
 <h3 align="center">и я с энтузиазмом изучаю Data Science </h3>
@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 - Особенно интересуюсь аналитикой, машинным обучением и применением статистических моделей для решения бизнес-задач.
 - Забавный факт:  являюсь основательницей книжного клуба "Скучная женщина"
 
-📍 Пятигорск, Россия
+📍 Пятигорск, Россия-->
