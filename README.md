@@ -1,17 +1,18 @@
-<h1 align="center">Hi there, I'm  <a href="https://www.linkedin.com/in/valentina-boychenko-9695aa185/" target="_blank">Valentina</a> 
+<h1 align="center">Привет, я <a href="https://www.linkedin.com/in/valentina-boychenko-9695aa185/" target="_blank">Валентина </a> 
 👋 </h1>
-<h3 align="center">а Data Science enthusiast </h3>
+<h3 align="center">Аналитик данных, который не просто смотрит в таблицы, а умеет находить в них смысл и превращать цифры в бизнес-решения. </h3>
 
-:woman_technologist:Facts about Me :
+:woman_technologist: Что важно знать обо мне:
 
-- Before switching to Data Science, I'm a HR - generalist. and it was the mini - course on HR-analytics that pushed me to change my profession. 
-- I completed a course in Data Analyst from the Tomsk State University.
-- Currently pursuing professional development in Data Science from Yandex Educational Technologies.
-- I'm open to opportunities in the field of Data Science and Machine Learning.
-- Particularly interested in Predictive Analytics, Machine Learning and applying statistical models to solve interesting novel business problems.
-- Fun fact: I am the founder of the 'Boring Woman' book club
+- Когда-то работала в HR, но однажды заглянула в HR-аналитику — и вот, теперь живу в мире данных, где цифры говорят громче слов.
+- Закончила курс по аналитике данных в Томском государственном университете, училась Data Science в Яндекс.Практикуме.
+- Сейчас занимаюсь маркетинговой аналитикой в сети пекарен: предсказываю продажи, изучаю поведение клиентов, делаю сегментацию, а заодно помогаю бизнесу зарабатывать больше.
+- Постоянно углубляюсь в предиктивную аналитику, машинное обучение и маркетинговую стратегию.
+- Основала книжный клуб "Нудная женщина", а ещё пишу книгу про аналитику и маркетинг в пекарнях — потому что цифры и булочки заслуживают хорошей истории.
 
-:hammer_and_wrench: Languages and Tools :
+🚀 Всегда рада пообщаться о данных, маркетинге и о том, как аналитика может делать бизнес умнее.
+
+:hammer_and_wrench: Языки и инструменты :
 
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="python" width="40" height="40"/>&nbsp;  
@@ -25,37 +26,6 @@
 </div>
 
 
-<tail> Let's code for good.</tail>
+<tail> </tail>
 
-<!-- ### Hi there 👋 from Russia 🇷🇺
-I'm Valentine, a Data Science enthusiast.
 
-**Speck-of-light/Speck-of-light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
--->
-
-<!--
-<h1 align="center">🇷🇺 Привет!, Меня завут  <a href="https://www.linkedin.com/in/valentina-boychenko-9695aa185/" target="_blank">Валентина</a> 
-👋 </h1>
-<h3 align="center">и я с энтузиазмом изучаю Data Science </h3>
-
-:woman_technologist:Немного обо мне:
-- До того, как переключиться на науку о данных, я была специалистом по персоналу широкого профиля. И именно мини-курс по HR-аналитике подтолкнул меня к смене профессии.
-- Закончила курс по анализу данных в Томском государственном университете.
-- В настоящее время прохожу повышение квалификации в области науки о данных в Yandex Educational Technologies.
-- Открыта для возможностей в области науки о данных и машинного обучения.
-- Особенно интересуюсь аналитикой, машинным обучением и применением статистических моделей для решения бизнес-задач.
-- Забавный факт:  являюсь основательницей книжного клуба "Скучная женщина"
-
-📍 Пятигорск, Россия-->
